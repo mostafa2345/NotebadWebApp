@@ -1,0 +1,49 @@
+/* _content/Notebad/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wslghh1qob] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wslghh1qob] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wslghh1qob] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wslghh1qob], .nav-pills .show > .nav-link[b-wslghh1qob] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wslghh1qob] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wslghh1qob] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wslghh1qob] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wslghh1qob] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-wslghh1qob] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
